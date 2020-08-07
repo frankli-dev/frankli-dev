@@ -1,4 +1,8 @@
-### Hi there 👋 🌱 🐑 🐻 🐼
+### Hi there 👋 
+
+`
+Software engineer with years of experience building lightning-fast 🌱  and massively scalable websites, web apps, REST APIs 🐻, socket servers, databases with elegantly clear and succinct code 🐑, automated tests 🐼, and blockchain-related. 💝
+`
 
 <!--
 **frankli-dev/frankli-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
