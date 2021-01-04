@@ -18,6 +18,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<br/><br/>
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=frankli-dev&show_icons=true&theme=monokai&count_private=true">
