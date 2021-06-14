@@ -1,1 +1,1 @@
-What can you do with `2 seconds`?
+What can you do with (not in) `2 seconds`?
