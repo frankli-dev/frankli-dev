@@ -1,4 +1,4 @@
-Worked & Contributed to POLKADEX, GIVELIFY, ACE, PRIVI, PROJECT-INVERSE, PARITECH, SUBSTRATE, CHAINSAFE, etc
+Worked & Contributed to **Polkadex, Givelify, ACE, Privi, Project-Inverse, Paritech, Substrate, ChainSafe**, etc
 
 ![](https://img.shields.io/badge/Rust-gray?style=for-the-badge&logo=rust&logoColor=white&color=gray)
 ![](https://img.shields.io/badge/Go-gray?style=for-the-badge&logo=goland&logoColor=white&color=gray)
