@@ -1,7 +1,7 @@
 What can you do with (not in) `2 seconds`?
 
-![](https://img.shields.io/badge/React-2bbc8a?style=for-the-badge&logo=react&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Node.js-2bbc8a?style=for-the-badge&logo=node.js&logoColor=white&color=gray)
+![](https://img.shields.io/badge/React-gray?style=for-the-badge&logo=react&logoColor=white&color=gray)
+![](https://img.shields.io/badge/Node.js-gray?style=for-the-badge&logo=node.js&logoColor=white&color=gray)
 
 ## &#x1f4c8; GitHub Stats
 
