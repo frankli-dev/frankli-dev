@@ -1,5 +1,7 @@
 What can you do with (not in) `2 seconds`?
 
+## &#x1f4c8; GitHub Stats
+
 ![](https://img.shields.io/badge/Javascript-gray?style=for-the-badge&logo=javascript&logoColor=white&color=gray)
 ![](https://img.shields.io/badge/Typescript-gray?style=for-the-badge&logo=typescript&logoColor=white&color=gray)
 ![](https://img.shields.io/badge/Rust-gray?style=for-the-badge&logo=rust&logoColor=white&color=gray)
@@ -10,8 +12,6 @@ What can you do with (not in) `2 seconds`?
 ![](https://img.shields.io/badge/Shell-gray?style=for-the-badge&logo=linux&logoColor=white&color=gray)
 ![](https://img.shields.io/badge/Docker-gray?style=for-the-badge&logo=docker&logoColor=white&color=gray)
 ![](https://img.shields.io/badge/Kubernetes-gray?style=for-the-badge&logo=kubernetes&logoColor=white&color=gray)
-
-## &#x1f4c8; GitHub Stats
 
   <a href="https://github.com/tpikachu/tpikachu" >
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=frankli-dev&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>
