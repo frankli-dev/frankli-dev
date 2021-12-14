@@ -7,6 +7,7 @@ Worked & Contributed to **@Polkadex, @Givelify, @ACE, @Privi, @Project-Inverse, 
 ![](https://img.shields.io/badge/React-gray?style=for-the-badge&logo=react&logoColor=white&color=gray)
 ![](https://img.shields.io/badge/Vue.js-gray?style=for-the-badge&logo=vue.js&logoColor=white&color=gray)
 ![](https://img.shields.io/badge/Node.js-gray?style=for-the-badge&logo=node.js&logoColor=white&color=gray)
+![](https://img.shields.io/badge/Python-gray?style=for-the-badge&logo=python&logoColor=white&color=gray)
 ![](https://img.shields.io/badge/Shell-gray?style=for-the-badge&logo=linux&logoColor=white&color=gray)
 ![](https://img.shields.io/badge/Docker-gray?style=for-the-badge&logo=docker&logoColor=white&color=gray)
 ![](https://img.shields.io/badge/Kubernetes-gray?style=for-the-badge&logo=kubernetes&logoColor=white&color=gray)
