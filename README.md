@@ -11,3 +11,9 @@ Worked & Contributed to **@Polkadex, @Givelify, @ACE, @Privi, @Project-Inverse, 
 ![](https://img.shields.io/badge/Shell-gray?style=for-the-badge&logo=linux&logoColor=white&color=gray)
 ![](https://img.shields.io/badge/Docker-gray?style=for-the-badge&logo=docker&logoColor=white&color=gray)
 ![](https://img.shields.io/badge/Kubernetes-gray?style=for-the-badge&logo=kubernetes&logoColor=white&color=gray)
+
+I'm interested in 
+- Competitive Programming :green_heart: ( Your submission is `Accepted` )
+- System Design :recycle: ( `DAU` 1 million )
+- Cryptography :key: ( `3099ac4a3c9f083ecfc1e46b1fac41fd4aa8c6baeaa2d974f18a3146b7af3809` )
+- Cracking Interviews :calendar: ( oh, you're muted )
