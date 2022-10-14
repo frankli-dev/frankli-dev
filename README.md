@@ -13,7 +13,9 @@ Worked & Contributed to **@Polkadex, @Givelify, @ACE, @Privi, @Project-Inverse, 
 ![](https://img.shields.io/badge/Kubernetes-gray?style=for-the-badge&logo=kubernetes&logoColor=white&color=gray)
 
 I'm interested in 
-- Competitive Programming :green_heart: ( Your submission is `Accepted` )
-- System Design :recycle: ( `DAU` 1 million )
-- Cryptography :key: ( `3099ac4a3c9f083ecfc1e46b1fac41fd4aa8c6baeaa2d974f18a3146b7af3809` )
-- Cracking Interviews :calendar: ( oh, you're muted )
+- ...
+- [5] Competitive Programming :green_heart: ( Your submission is `Accepted` )
+- [6] System Design :recycle: ( `DAU` 1 million )
+- [7] Cryptography :key: ( `3099ac4a3c9f083ecfc1e46b1fac41fd4aa8c6baeaa2d974f18a3146b7af3809` )
+- [8] Cracking Interviews :calendar: ( oh, you're muted )
+- ...
