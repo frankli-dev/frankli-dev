@@ -1,4 +1,4 @@
-Worked & Contributed to **@Collectivei @Viridios.ai @DisneyStreaming, @Valorem, @VacuumLabs, @Polkadex, @Givelify, @ACE, @Privi, @Project-Inverse, @Paritech, @Substrate, @ChainSafe**, etc
+Worked & Contributed to **@SecondSpectrum @Collectivei @Viridios.ai @DisneyStreaming, @Valorem, @VacuumLabs, @Polkadex, @Givelify, @ACE, @Privi, @Project-Inverse, @Paritech, @Substrate, @ChainSafe**, etc
 
 ![](https://img.shields.io/badge/Javascript-gray?style=for-the-badge&logo=javascript&logoColor=white&color=gray)
 ![](https://img.shields.io/badge/Typescript-gray?style=for-the-badge&logo=typescript&logoColor=white&color=gray)
